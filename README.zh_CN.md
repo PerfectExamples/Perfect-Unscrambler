@@ -75,7 +75,7 @@ HTTP服务器的启动会需要一段时间，主要是从网上在线下载一�
 
 - **In-Memory & Indexing**: 本案例中，破解字谜的关键是使用了字母频率表作为解密索引。所有操作都是在内存中完成并将服务器性能优化到极限水平。
 
-- **Reactive Extensions 展示**: 本项目同时还展示了如何使用 jQuery / Reactive JS 来实现Perfect 类型的服务器查询。
+- **ReactJS 展示**: 本项目同时还展示了如何使用 jQuery / ReactJS 来实现Perfect 类型的服务器查询。
 
 ## 第三方资源引用
 
