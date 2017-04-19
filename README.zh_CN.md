@@ -82,13 +82,13 @@ HTTP服务器的启动会需要一段时间，主要是从网上在线下载一�
 本项目使用了如下三个开源的互联网资源。如果未来发现以下资源不可用，您可以自行找到`main.swift`文件修改或替换这些资源：
 
 ``` swift
-/// any valid word list file given each word per line.
+/// 只要是字典文本文件都可以，每行一个单词
 let dictionaryURL = "https://raw.githubusercontent.com/dwyl/english-words/master/words.txt"
 
-/// cdn of jQuery
+/// jQuery的CDN链接
 let jqueryURL = "https://code.jquery.com/jquery-1.12.4.min.js"
 
-/// github source of Reative-Extensions javascript
+/// Reative-Extensions 在Github上的资源
 let reactiveURL = "https://raw.githubusercontent.com/Reactive-Extensions/RxJS/master/dist/rx.lite.compat.min.js"
 
 ```
