@@ -80,7 +80,7 @@ To stop the server, simply go back to the terminal and type `CTRL-C`.
 
 - **In-Memory & Indexing**: In this example, a frequency table has been applied to solve the incoming puzzle as the key of indexing. All operations are taking in memory which maximizes the server performance.
 
-- **Reactive Extensions Demo**: This demo also shows how jQuery / Reactive JS works with Perfect Server.
+- **Reactive Extensions Demo**: This demo also shows how jQuery / ReactJS works with Perfect Server.
 
 ## Third Party Dependencies
 
